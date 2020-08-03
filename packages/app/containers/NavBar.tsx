@@ -48,7 +48,7 @@ function NavBar({ variant }: INavBar) {
           </Link>
         </GridCell>
         <GridCell>
-          <Link href="https://github.com/balajmarius/svg2jsx" target="_blank">
+          <Link href="https://github.com/brandonperfetti/svg2jsx" target="_blank">
             <IconStar />
             <TextStar>Star on</TextStar>
             <IconGithub />
