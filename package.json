@@ -4,8 +4,8 @@
   "version": "2.0.0",
   "description": "Transform SVG to valid JSX",
   "main": "index.js",
-  "repository": "https://github.com/brandonperfetti/svg2jsx.git",
-  "author": "Brandon Perfetti <brandon@brandonperfetti.com>",
+  "repository": "https://github.com/balajmarius/svg2jsx-gui.git",
+  "author": "Balaj Marius <balajmarius93@gmail.com>",
   "license": "MIT",
   "engines": {
     "node": "12.16.2"
