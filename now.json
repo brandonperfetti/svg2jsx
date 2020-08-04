@@ -1,7 +1,7 @@
 {
   "version": 2,
   "name": "svg2jsx",
-  "alias": ["svg2jsx.com"],
+  "alias": ["svg2jsx.brandonperfetti.com"],
   "builds": [{ "src": "packages/app/package.json", "use": "@now/next" }],
   "routes": [{ "src": "/(.*)", "dest": "/packages/app/$1" }]
 }
